@@ -7,7 +7,7 @@ A Raspberry Pi 3 based payment module based on RFID.
 ![screen shot 2018-05-13 at 3 03 55 pm](https://user-images.githubusercontent.com/36476228/39965895-98e251d8-56bf-11e8-94ed-a9f9d16a6c02.png)
 
 
-### Module Demo >> 
+### Module Demo >> https://www.youtube.com/watch?v=kmijUQLliAk
 
 ## Technologies used:
 
